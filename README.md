@@ -8,7 +8,7 @@ A personal challenge to build and share **30 electronics + microcontroller proje
 
 | Day | Title                     | Folder                               | Demo Link     |
 |-----|---------------------------|--------------------------------------|---------------|
-| 1   | Touchless LED Switch      | [Day01_Touchless_LED_Switch](./Day01_Touchless_LED_Switch) | Coming Soon 📷 |
+| 1   | Touchless LED Switch      | [Day01_Touchless_LED_Switch](./Day01_Touchless_LED_Switch) |  https://www.instagram.com/reel/DLXYwCOSzgi/?igsh=MW5xMzRsb3Jib2Fzag==|
 | 2   |                           | `Day02_...`                          |               |
 | 3   |                           | `Day03_...`                          |               |
 | ... |                           | ...                                  |               |
