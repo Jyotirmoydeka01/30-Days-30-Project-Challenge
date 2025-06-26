@@ -22,4 +22,4 @@ A personal challenge to build and share **30 electronics + microcontroller proje
 
 ## 🔗 Follow the Build
 - 🧠 GitHub: [@Jyotirmoydeka01](https://github.com/Jyotirmoydeka01)
-- 📷 Instagram: [@jyotirmakes](https://instagram.com/jyotirmakes)
+- 📷 Instagram: [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
