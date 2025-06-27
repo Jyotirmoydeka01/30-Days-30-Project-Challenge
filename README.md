@@ -1,31 +1,24 @@
-# 30-Days-30-Project-Challenge
-30 DIY projects in 30 days using Arduino, ESP32, and more
-# 🔧 30 Days 30 Project Challenge – jyotirmakes
+# 🚀 30 Days 30 Project Challenge
 
-A personal challenge to build and share **30 electronics + microcontroller projects** in 30 days using Arduino, ESP32, sensors, and more!
+Welcome to my 30-day hardware challenge!  
+Each day, I build a new electronics or embedded project using microcontrollers, sensors, and DIY skills — and share the code, circuit, and demo here and on [Instagram @jyotirmakes](https://instagram.com/jyotirmakes).
 
-## 📅 Project List
+---
 
-| Day | Title                     | Folder                               | Demo Link     |
-|-----|---------------------------|--------------------------------------|---------------|
-| 1   | Touchless LED Switch      | [Day01_Touchless_LED_Switch](./Day01_Touchless_LED_Switch) | https://www.instagram.com/reel/DLXYwCOSzgi/?igsh=MW5xMzRsb3Jib2Fzag==📷 |
-| 2   |                           | ## 📅 Day 2 – Wireless Notice Board
+## 📅 Daily Project List
 
-Display messages sent via Bluetooth from a smartphone onto an OLED screen using the STM32 Bluepill and HC-05 module.
+### ✅ Day 01 – Touchless LED Switch
+Use an IR sensor to control an LED without touching it — simple gesture-based interaction using Arduino.  
+🔗 [View Project](./Day01_Touchless_LED_Switch)
 
-🔗 [View Project Folder](./Day02_Wireless_Notice_Board)
-                        |               |
-| 3   |                           | `Day03_...`                          |               |
-| ... |                           | ...                                  |               |
-| 30  |                           | `Day30_...`                          |               |
+---
 
-## 🧰 Tools & Boards Used
-- Arduino Nano / Uno
-- ESP32 / ESP8266 / ESP32-CAM
-- NRF24L01, HC-SR04, BMP280, LDR
-- 555 Timer IC, Potentiometers, Capacitors, Relays
+### ✅ Day 02 – Wireless Notice Board
+Send messages from your phone via Bluetooth and display them on an OLED using STM32 Bluepill and HC-05 module.  
+🔗 [View Project](./Day02_Wireless_Notice_Board)
 
-## 🔗 Follow the Build
-- 🧠 GitHub: [@Jyotirmoydeka01](https://github.com/Jyotirmoydeka01)
-- 📷 Instagram: [@jyotirmakes](https://instagram.com/jyotirmakes)
+---
 
+Stay tuned for more projects every day!
+
+Follow along → 📸 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
