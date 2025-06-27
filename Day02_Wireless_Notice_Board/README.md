@@ -19,7 +19,7 @@ Display messages sent over Bluetooth from a smartphone onto an OLED display usin
 ### OLED Display (I2C)
 | OLED Pin | STM32 Pin |
 |----------|-----------|
-| VCC      | 3.3V      |
+| VCC      | 5V      |
 | GND      | GND       |
 | SCL      | PB6       |
 | SDA      | PB7       |
