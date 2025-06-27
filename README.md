@@ -8,7 +8,7 @@ Each day, I build a new electronics or embedded project using microcontrollers, 
 ## 📅 Daily Project List
 
 ### ✅ Day 01 – Touchless LED Switch
-Use an IR sensor to control an LED without touching it — simple gesture-based interaction using Arduino.  
+Use an Ultrasonic sensor to control an LED without touching it — simple gesture-based interaction using Arduino.  
 🔗 [View Project](./Day01_Touchless_LED_Switch)
 
 ---
