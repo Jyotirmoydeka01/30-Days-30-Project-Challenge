@@ -8,8 +8,13 @@ A personal challenge to build and share **30 electronics + microcontroller proje
 
 | Day | Title                     | Folder                               | Demo Link     |
 |-----|---------------------------|--------------------------------------|---------------|
-| 1   | Touchless LED Switch      | [Day01_Touchless_LED_Switch](./Day01_Touchless_LED_Switch) |  https://www.instagram.com/reel/DLXYwCOSzgi/?igsh=MW5xMzRsb3Jib2Fzag==|
-| 2   |                           | `Day02_...`                          |               |
+| 1   | Touchless LED Switch      | [Day01_Touchless_LED_Switch](./Day01_Touchless_LED_Switch) | https://www.instagram.com/reel/DLXYwCOSzgi/?igsh=MW5xMzRsb3Jib2Fzag==📷 |
+| 2   |                           | ## 📅 Day 2 – Wireless Notice Board
+
+Display messages sent via Bluetooth from a smartphone onto an OLED screen using the STM32 Bluepill and HC-05 module.
+
+🔗 [View Project Folder](./Day02_Wireless_Notice_Board)
+                        |               |
 | 3   |                           | `Day03_...`                          |               |
 | ... |                           | ...                                  |               |
 | 30  |                           | `Day30_...`                          |               |
@@ -22,4 +27,5 @@ A personal challenge to build and share **30 electronics + microcontroller proje
 
 ## 🔗 Follow the Build
 - 🧠 GitHub: [@Jyotirmoydeka01](https://github.com/Jyotirmoydeka01)
-- 📷 Instagram: [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
+- 📷 Instagram: [@jyotirmakes](https://instagram.com/jyotirmakes)
+
