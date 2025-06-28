@@ -1,24 +1,36 @@
-# 🚀 30 Days 30 Project Challenge
+# 🔧 30 Days 30 Project Challenge
 
-Welcome to my 30-day hardware challenge!  
-Each day, I build a new electronics or embedded project using microcontrollers, sensors, and DIY skills — and share the code, circuit, and demo here and on [Instagram @jyotirmakes](https://instagram.com/jyotirmakes).
-
----
-
-## 📅 Daily Project List
-
-### ✅ Day 01 – Touchless LED Switch
-Use an Ultrasonic sensor to control an LED without touching it — simple gesture-based interaction using Arduino.  
-🔗 [View Project](./Day01_Touchless_LED_Switch)
+Welcome to my 30-day electronics challenge!  
+Each day, I build and share a new project using microcontrollers, sensors, and modules I have at home.  
+Follow along and get inspired to build your own!
 
 ---
 
-### ✅ Day 02 – Wireless Notice Board
-Send messages from your phone via Bluetooth and display them on an OLED using STM32 Bluepill and HC-05 module.  
-🔗 [View Project](./Day02_Wireless_Notice_Board)
+## 📅 Projects List
+
+### ✅ Day 1 – Touchless LED Switch  
+A simple IR sensor-based switch to control an LED without touching it.  
+📂 [Project Folder](./Day01_Touchless_LED_Switch)  
+📷 Demo: ![Demo](./Day01_Touchless_LED_Switch/Demo_image.jpg)
 
 ---
 
-Stay tuned for more projects every day!
+### ✅ Day 2 – Wireless Notice Board  
+STM32 Bluepill + OLED display + HC-05 Bluetooth module to display text wirelessly from your phone.  
+📂 [Project Folder](./Day02_Wireless_Notice_Board)  
+📷 Demo: ![Demo](./Day02_Wireless_Notice_Board/Demo_Image.jpg)
 
-Follow along → 📸 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
+---
+
+### ✅ Day 3 – Mini Weather Station  
+ESP8266 + BMP280 sensor reads temperature and pressure, and shows it on a live web server that auto-refreshes.  
+📂 [Project Folder](./Day03_Mini_Weather_Station)  
+📷 Demo: ![Demo](./Day03_Mini_Weather_Station/Demo_Image.jpg)
+
+---
+
+## 📌 Follow me on Instagram  
+👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
+
+
+
