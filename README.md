@@ -29,6 +29,15 @@ ESP8266 + BMP280 sensor reads temperature and pressure, and shows it on a live w
 
 ---
 
+---
+
+### ✅ Day 4 – Reaction Timer Game  
+A fun Arduino project that tests your reflexes! Press the button as soon as the LED lights up to measure your reaction speed.  
+📂 [Project Folder](./Day04_Reaction_Timer_Game)  
+📷 Demo: ![Demo](./Day04_Reaction_Timer_Game/Demo_Image.jpg)
+
+---
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
