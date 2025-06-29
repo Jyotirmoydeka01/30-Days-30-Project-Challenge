@@ -9,7 +9,7 @@ Follow along and get inspired to build your own!
 ## 📅 Projects List
 
 ### ✅ Day 1 – Touchless LED Switch  
-A simple IR sensor-based switch to control an LED without touching it.  
+A simple Ultrasonic sensor-based switch to control an LED without touching it.  
 📂 [Project Folder](./Day01_Touchless_LED_Switch)  
 📷 Demo: ![Demo](./Day01_Touchless_LED_Switch/Demo_image.jpg)
 
