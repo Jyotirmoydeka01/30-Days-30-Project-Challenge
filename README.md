@@ -38,6 +38,29 @@ A fun Arduino project that tests your reflexes! Press the button as soon as the 
 
 ---
 
+---
+
+## 📅 Day 5 – DIY Arduino Oscilloscope
+
+In this project, I built a simple oscilloscope using an Arduino to visualize analog signals like a potentiometer sweep or a 555 timer square wave.
+
+### 🔧 Components Used:
+- Arduino Nano
+- OLED Display (SSD1306) 
+- Jumper wires and breadboard
+
+### 🧠 What It Does:
+- Data is plotted live on OLED
+- You can simulate different waveforms using 555 timer or real analog sources
+
+### 📸 Demo:
+![Oscilloscope Demo](Day05_Arduino_Oscilloscope/Demo_Image.jpg)
+
+➡️ [Project Folder](Day05_Arduino_Oscilloscope)
+
+---
+
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
