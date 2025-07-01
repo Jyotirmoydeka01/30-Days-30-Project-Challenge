@@ -79,6 +79,7 @@ This project uses a 555 timer IC in astable mode to generate a square wave. A 10
 - Great for understanding timing circuits and waveform generation.
 
 🔗 [View Project Folder](./Day06_555_Timer_Variable_Frequency)
+![Circuit Demo](Day06_555_Timer_Variable_Frequency/Circuit_Diagram.png)
 
 ---
 
