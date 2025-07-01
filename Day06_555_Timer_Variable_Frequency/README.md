@@ -1,6 +1,8 @@
 # Day 6 – 555 Timer Variable Frequency Generator
 
-This project demonstrates how to generate a square wave using the 555 timer IC in astable mode, where the frequency is controlled by a 100k potentiometer.
+This project uses the 555 timer IC in astable mode to create a square wave. A 100k potentiometer is used to vary the output frequency, and an LED visually represents the pulse rate.
+
+---
 
 ## 🔧 Components Used
 - 555 Timer IC
@@ -10,26 +12,24 @@ This project demonstrates how to generate a square wave using the 555 timer IC i
 - 220Ω Resistor
 - Breadboard & Jumper Wires
 
-## ⚙️ Circuit Description
-The 555 timer is configured in astable mode. The potentiometer adjusts the charge and discharge time, changing the output frequency. An LED is connected to the output (Pin 3) for visual feedback.
+---
 
-### 📐 Frequency Formula:
-\[
-f = \frac{1.44}{(R_1 + 2R_2) \times C}
-\]
+## ⚙️ Working Principle
+The 555 timer is configured in astable mode, meaning it continuously switches between high and low states. The potentiometer adjusts the resistance, which changes the charge/discharge cycle of the capacitor, effectively controlling the blinking speed of the LED.
 
-- \( R_1 = \) fixed resistor (or part of the potentiometer)
-- \( R_2 = \) variable resistance via potentiometer
-- \( C = \) 100µF capacitor
+### Frequency Formula:
+f = 1.44 / ((R1 + 2*R2) * C)
+## 📸 Project Demo
 
-## 📸 Demo
-
-| Circuit Diagram | Project Output |
-|-----------------|----------------|
+| Circuit Diagram | Final Output |
+|-----------------|---------------|
 | ![Circuit](./Circuit_Diagram.png) | ![Demo](./Demo_Image.jpg) |
 
-## 🧠 What I Learned
-- Configuring the 555 timer in astable mode
-- How timing components affect square wave frequency
-- Potentiometer as a tunable resistor in timing circuits
+---
 
+## 🧠 What I Learned
+- Using the 555 timer in astable mode
+- How RC timing affects square wave generation
+- Tuning output frequency using a potentiometer
+- Visualizing square wave through LED blinking
+---

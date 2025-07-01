@@ -62,27 +62,29 @@ In this project, I built a simple oscilloscope using an Arduino to visualize ana
 
 ---
 
+
 ## 📅 Day 06 – 555 Timer Variable Frequency Generator
 
-This project uses a 555 timer IC in astable mode to generate a square wave. A 100k potentiometer is used to vary the frequency dynamically.
+This project demonstrates a square wave generator using the 555 timer in astable mode. A 100k potentiometer is used to adjust the frequency of the output signal. The LED blinks at a speed that depends on the resistance.
 
 ### 🔧 Components:
 - 555 Timer IC  
 - 100k Potentiometer  
 - 10µF Capacitor  
-- LED + Resistor  
+- LED  
+- 220Ω Resistor  
 - Breadboard, Wires
 
 ### 🔍 Summary:
-- The LED blinks faster or slower based on the potentiometer position.
-- Frequency is calculated using the standard 555 astable formula.
-- Great for understanding timing circuits and waveform generation.
+- Generates variable frequency square waves.
+- LED indicates frequency through blinking.
+- Great for learning timing circuits and signal generation.
+
+![Demo](./Day06_555_Timer_Variable_Frequency/Demo_Image.jpg)
 
 🔗 [View Project Folder](./Day06_555_Timer_Variable_Frequency)
-![Circuit Demo](Day06_555_Timer_Variable_Frequency/Circuit_Diagram.png)
 
 ---
-
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
