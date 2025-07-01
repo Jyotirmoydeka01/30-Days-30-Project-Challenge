@@ -17,8 +17,11 @@ This project uses the 555 timer IC in astable mode to create a square wave. A 10
 ## ⚙️ Working Principle
 The 555 timer is configured in astable mode, meaning it continuously switches between high and low states. The potentiometer adjusts the resistance, which changes the charge/discharge cycle of the capacitor, effectively controlling the blinking speed of the LED.
 
-### Frequency Formula:
+### 📐 Frequency Formula:
 f = 1.44 / ((R1 + 2*R2) * C)
+
+---
+
 ## 📸 Project Demo
 
 | Circuit Diagram | Final Output |
@@ -28,8 +31,7 @@ f = 1.44 / ((R1 + 2*R2) * C)
 ---
 
 ## 🧠 What I Learned
-- Using the 555 timer in astable mode
-- How RC timing affects square wave generation
-- Tuning output frequency using a potentiometer
+- Using the 555 timer in astable mode  
+- How RC timing affects square wave generation  
+- Tuning output frequency using a potentiometer  
 - Visualizing square wave through LED blinking
----
