@@ -86,6 +86,21 @@ This project demonstrates a square wave generator using the 555 timer in astable
 
 ---
 
+### 📅 Day 7 – Tilt Direction Indicator (MPU6050 + STM32)
+
+This project uses the MPU6050 sensor to detect tilt direction and lights up 5 different LEDs for:
+- Front
+- Back
+- Left
+- Right
+- Center (flat surface)
+
+👉 [Project Folder](Day07_Tilt_Direction_Indicator)
+
+![Day 7 Demo](Day07_Tilt_Direction_Indicator/Demo_Image.jpg)
+
+---
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
