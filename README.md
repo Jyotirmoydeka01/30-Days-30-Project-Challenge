@@ -101,6 +101,17 @@ This project uses the MPU6050 sensor to detect tilt direction and lights up 5 di
 
 ---
 
+### 📅 Day 8 – 1-Bit Full Adder (Logic Gate Circuit)
+
+Built a functional 1-bit full adder circuit using 7486, 7408, and 7432 logic gate ICs. This is a basic yet powerful demonstration of combinational digital logic without any microcontroller.
+
+👉 [Project Folder](Day08_1Bit_Full_Adder)
+
+![Day 8 Demo](Day08_1Bit_Full_Adder/Demo_Image.jpg)
+
+---
+
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
