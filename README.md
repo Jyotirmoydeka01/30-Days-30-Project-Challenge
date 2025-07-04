@@ -33,8 +33,10 @@ ESP8266 + BMP280 sensor reads temperature and pressure, and shows it on a live w
 
 ### ✅ Day 4 – Reaction Timer Game  
 A fun Arduino project that tests your reflexes! Press the button as soon as the LED lights up to measure your reaction speed.  
-📂 [Project Folder](./Day04_Reaction_Timer_Game)  
-📷 Demo: ![Demo](./Day04_Reaction_Timer_Game/Demo_Image.jpg)
+📂 [Project Folder](./Day04_Reaction_Timer_Game)
+
+### 📸 Demo:
+ ![Demo](./Day04_Reaction_Timer_Game/Demo_Image.jpg)
 
 ---
 
@@ -80,9 +82,12 @@ This project demonstrates a square wave generator using the 555 timer in astable
 - LED indicates frequency through blinking.
 - Great for learning timing circuits and signal generation.
 
+🔗 [View Project Folder](./Day06_555_Timer_Variable_Frequency)
+
+### 📸 Demo:
 ![Demo](./Day06_555_Timer_Variable_Frequency/Demo_Image.jpg)
 
-🔗 [View Project Folder](./Day06_555_Timer_Variable_Frequency)
+
 
 ---
 
@@ -97,6 +102,7 @@ This project uses the MPU6050 sensor to detect tilt direction and lights up 5 di
 
 👉 [Project Folder](Day07_Tilt_Direction_Indicator)
 
+### 📸 Demo:
 ![Day 7 Demo](Day07_Tilt_Direction_Indicator/Demo_Image.jpg)
 
 ---
@@ -107,6 +113,7 @@ Built a functional 1-bit full adder circuit using 7486, 7408, and 7432 logic gat
 
 👉 [Project Folder](Day08_1Bit_Full_Adder)
 
+### 📸 Demo:
 ![Day 8 Demo](Day08_1Bit_Full_Adder/Demo_Image.jpg)
 
 ---
@@ -114,7 +121,10 @@ Built a functional 1-bit full adder circuit using 7486, 7408, and 7432 logic gat
 ### Day 09 – ESP32-CAM Code Upload Tutorial  
 In this project, I explained how to upload code to the ESP32-CAM using either an FTDI232 USB-to-Serial adapter or an Arduino Nano.  
 📁 [Project Files](./Day09_ESP32CAM_Code_Upload_Tutorial)  
-📸 [Demo Image](./Day09_ESP32CAM_Code_Upload_Tutorial/Demo_Image.jpg)
+
+### 📸 Demo:
+![Day 09 Demo](Day09_ESP32CAM_Code_Upload_Tutorial/Demo_Image.jpg)
+
 
 ---
 
