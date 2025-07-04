@@ -111,6 +111,13 @@ Built a functional 1-bit full adder circuit using 7486, 7408, and 7432 logic gat
 
 ---
 
+### Day 09 – ESP32-CAM Code Upload Tutorial  
+In this project, I explained how to upload code to the ESP32-CAM using either an FTDI232 USB-to-Serial adapter or an Arduino Nano.  
+📁 [Project Files](./Day09_ESP32CAM_Code_Upload_Tutorial)  
+📸 [Demo Image](./Day09_ESP32CAM_Code_Upload_Tutorial/Demo_Image.jpg)
+
+---
+
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
