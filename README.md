@@ -128,6 +128,15 @@ In this project, I explained how to upload code to the ESP32-CAM using either an
 
 ---
 
+### 🔟 Day 10 – Pseudo-Random LED Sequence Generator
+
+This project demonstrates how to generate a pseudo-random blinking pattern using logic gates and a 7474 D Flip-Flop IC. A 555 timer provides the clock pulses, and the sequence is produced using a linear feedback shift register (LFSR). This hardware-only project mimics randomness and cycles through a non-repeating pattern across 4 LEDs.
+
+📂 [Project Folder](./Day10_Pseudo_Random_LED_Sequence)  
+📷 ![Day 10 Demo](Day10_Pseudo_Random_LED_Sequence/Demo_Image.jpg)
+
+---
+
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
