@@ -137,6 +137,13 @@ This project demonstrates how to generate a pseudo-random blinking pattern using
 
 ---
 
+## Day 11 – Logic IC Tester (Part 1 – UI and IC Selection)
+
+Build a scrolling IC selector using OLED and push buttons for 74xx logic ICs. This project is modular and will be extended to test logic gates based on selected IC.
+📷 ![Day 11 Demo](Day11_Logic_IC_Tester_Part1/Demo_Image.jpg)
+[🔗 View Project Folder](./Day11_Logic_IC_Tester_Part1)
+
+---
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
