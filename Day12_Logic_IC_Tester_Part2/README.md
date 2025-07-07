@@ -42,11 +42,11 @@ This project is the second part of the Logic IC Tester series. It builds upon Pa
 
 ## 📷 Demo
 
-![Demo Image](demo_image.jpg)
+![Demo Image](Demo_Image.jpg)
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](Circuit_Diagram.png)
 
 ## 🗂️ Files
 
