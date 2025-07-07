@@ -145,6 +145,15 @@ Build a scrolling IC selector using OLED and push buttons for 74xx logic ICs. Th
 
 ---
 
+## Day 12 – Logic IC Tester (Part 2 – UI and Debugging)
+This is the second part of the Logic IC Tester. After selecting a logic IC from the OLED menu (built in Part 1), this part tests the selected IC’s functionality by applying input logic levels and checking outputs based on the truth table. If any gate fails, it identifies the faulty output pin. If all gates pass, it prints “IC Test Passed” on the OLED.
+📷 ![Day 11 Demo](Day12_LogicICTester_Part2/Demo_Image.jpg)
+[🔗 View Project Folder](./Day12_LogicICTester_Part2)
+
+---
+
+
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
