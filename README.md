@@ -147,8 +147,73 @@ Build a scrolling IC selector using OLED and push buttons for 74xx logic ICs. Th
 
 ## Day 12 – Logic IC Tester (Part 2 – UI and Debugging)
 This is the second part of the Logic IC Tester. After selecting a logic IC from the OLED menu (built in Part 1), this part tests the selected IC’s functionality by applying input logic levels and checking outputs based on the truth table. If any gate fails, it identifies the faulty output pin. If all gates pass, it prints “IC Test Passed” on the OLED.
-📷 ![Day 11 Demo](Day12_Logic_IC_Tester_Part2/Demo_Image.jpg)
+📷 ![Day 12 Demo](Day12_Logic_IC_Tester_Part2/Demo_Image.jpg)
 [🔗 View Project Folder](./Day12_Logic_IC_Tester_Part2)
+
+---
+
+# 🔍 Day 13 – Logic IC Tester (Part 3 – Gate-wise Fault Display)
+
+This is the third and final part of the Logic IC Tester project. In this version, we’ve added gate-wise fault detection to clearly identify which gate (1 to 4) failed during testing. Each gate is tested independently, and the result is shown on the OLED display.
+
+---
+
+## 📷 Demo Image
+
+📷 ![Day 13 Demo](Day13_IC_Tester_GateWise/Demo_Image.jpg)
+---
+
+## 🧠 Features
+
+- ✅ Supports multiple ICs like **7400, 7402, 7404, 7408, 7432, 7486**
+- 📋 IC is auto-tested with each gate input combination
+- 📺 Displays result for each gate (PASS/FAIL) on **OLED**
+- 🔁 Scroll button for IC selection, Select button to run test
+
+---
+
+## 🧾 ICs Tested
+
+| IC     | Type         |
+|--------|--------------|
+| 7400   | NAND Gate    |
+| 7402   | NOR Gate     |
+| 7404   | NOT Gate     |
+| 7408   | AND Gate     |
+| 7432   | OR Gate      |
+| 7486   | XOR Gate     |
+
+---
+
+## 🛠️ Wiring
+
+Each input and output of the IC is connected to a specific GPIO pin of the **STM32 Blue Pill**. Pins are defined in the code and displayed on-screen before testing.
+
+> Note: PB4 pin was found faulty and replaced with another pin like PB8.
+
+---
+
+## 🧾 Usage
+
+1. Upload the code to **STM32 Blue Pill**
+2. Insert the IC in the breadboard
+3. Connect pins as per the on-screen wiring diagram
+4. Press **Select** to test and display results
+5. Faulty gates are shown directly on the OLED
+
+---
+
+## 📦 Files
+
+- `IC_tester_v3.ino` – Main code with OLED UI and gate-wise testing
+- `demo.jpg` – Image of working project
+- `circuit.png` – Circuit diagram for wiring
+
+---
+
+## 🎯 Outcome
+
+This version helps identify **exactly which gate** is faulty in an IC. Helpful for electronics testing and component validation during prototyping.
 
 ---
 
