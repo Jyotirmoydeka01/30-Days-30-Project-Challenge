@@ -217,7 +217,13 @@ This version helps identify **exactly which gate** is faulty in an IC. Helpful f
 
 ---
 
+### Day 15 – Smart Resistor Value Finder
 
+A compact tool to measure unknown resistor using STM32 and OLED. Displays accurate measurements using voltage divider principles.
+
+[🔗 View Folder](./Day15_Smart_Res_Finder)
+
+---
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
