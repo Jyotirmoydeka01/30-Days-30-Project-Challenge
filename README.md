@@ -221,6 +221,10 @@ This version helps identify **exactly which gate** is faulty in an IC. Helpful f
 
 A compact tool to measure unknown resistor using STM32 and OLED. Displays accurate measurements using voltage divider principles.
 
+## 📷 Demo Image
+
+📷 ![Day 15 Demo](Day15_Smart_Res_Finder/Demo_Image.jpg)
+
 [🔗 View Folder](./Day15_Smart_Res_Finder)
 
 ---
