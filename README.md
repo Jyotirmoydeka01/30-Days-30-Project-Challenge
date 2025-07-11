@@ -229,6 +229,42 @@ A compact tool to measure unknown resistor using STM32 and OLED. Displays accura
 
 ---
 
+# Day 16 – OLED Line Follower Simulator
+
+This project simulates a line follower robot's sensor behavior and movement logic using an OLED display. It includes two variants:
+
+### 🔹 2-IR Sensor Based Simulator
+- Simulates real-time inputs from two IR sensors (Left & Right).
+- Displays directional decisions (Forward, Turn Left, Turn Right, Stop).
+- Useful for minimal sensor designs or testing behavior logic.
+
+📷 ![Day 16 2 IR Demo](Day16_Line_Follower_Simulator/2_IR_Simulator/Demo_Image_2IR.jpg)
+
+
+### 🔹 5-IR Pattern Simulation
+- Simulates predefined IR sensor patterns with 5 sensors.
+- Displays action based on each pattern (Sharp Left, Turn Right, etc.).
+- Great for understanding pattern recognition in robotics.
+
+📷 ![Day 16 5 IR Demo](Day16_Line_Follower_Simulator/5_IR_Simulator/Demo_Image_5IR.jpg)
+
+---
+
+### 📦 Components
+- STM32 Blue Pill (or Arduino)
+- OLED Display (SSD1306)
+- IR Sensors (for 2-IR version)
+- Jumper Wires, Breadboard
+
+---
+
+[🔗 View Folder](./Day16_Line_Follower_Simulator)
+
+
+
+
+---
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
