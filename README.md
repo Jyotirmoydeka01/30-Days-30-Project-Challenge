@@ -261,9 +261,20 @@ This project simulates a line follower robot's sensor behavior and movement logi
 [🔗 View Folder](./Day16_Line_Follower_Simulator)
 
 
+---
+
+
+#  Day 17 – ESP32 OLED Compass (MPU6050 Based)
+A real-time digital compass built using ESP32, MPU6050, and OLED. The compass rotates like a real one, showing cardinal directions (N, E, S, W) on a circular UI. North is calibrated once and saved using Preferences in EEPROM. The device boots with calibration and supports manual recalibration via a button.
+
+📂 [🔗 View Folder](./Day17_ESP32_Compass)
+
+📸 Demo: 📷 ![Day 17 Demo](Day17_ESP32_Compass/Demo_Image.jpg)
+
 
 
 ---
+
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
