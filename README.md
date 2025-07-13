@@ -275,6 +275,18 @@ A real-time digital compass built using ESP32, MPU6050, and OLED. The compass ro
 
 ---
 
+# Day 18 – 4-to-1 Multiplexer using Logic Gates
+A digital multiplexer built entirely using logic ICs — 7408 (AND), 7432 (OR), and 7404 (NOT). It routes one of four input signals (I0–I3) to a single output (Y) based on two select lines (S1, S0). The project helps visualize how combinational logic can perform data selection without needing a dedicated MUX chip.
+
+🔧 Components: 7408, 7432, 7404, 4 push buttons, 1 LED, resistors, wires
+📷 Demo:📷 ![Day 18 Demo](Day18_4to1_MUX_LogicGates/Demo_Image.jpg)
+
+📂 [🔗 View Folder](./Day18_4to1_MUX_LogicGates)
+
+
+---
+
+
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
