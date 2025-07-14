@@ -286,6 +286,26 @@ A digital multiplexer built entirely using logic ICs — 7408 (AND), 7432 (OR), 
 
 ---
 
+## Day 19 – Web-Based PID Servo Tuner 🎯📶
+
+In this project, I built a system where an **Arduino Nano controls a servo using PID logic**, and an **ESP32 hosts a web interface** to adjust PID values in real-time. The two push buttons trigger the servo to go to either 0° or 180°, and the PID loop brings it back to 90°. An **OLED display shows the live Kp, Ki, Kd values, setpoint, and angle**.
+
+🔌 **Serial communication** connects ESP32 to Nano  
+📟 **OLED UI** for visual feedback  
+🔁 **PID logic** to control smooth servo motion  
+🌐 **Web interface** to fine-tune control values
+
+# Demo Images 
+
+📷 Website :📷 ![Day 19 Website](Day19_PID-Servo-Tuner/Images/Web_Server.png)
+📷 Demo:📷 ![Day 18 Demo](Day19_PID-Servo-Tuner/Demo_Image.png)
+
+
+
+[🔗 View Project Folder →](./Day19_PID-Servo-Tuner)
+
+---
+
 
 
 ## 📌 Follow me on Instagram  
