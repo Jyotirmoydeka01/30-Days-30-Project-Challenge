@@ -298,7 +298,7 @@ In this project, I built a system where an **Arduino Nano controls a servo using
 # Demo Images 
 
 📷 Website :📷 ![Day 19 Website](Day19_PID-Servo-Tuner/Images/Web_Server.png)
-📷 Demo:📷 ![Day 18 Demo](Day19_PID-Servo-Tuner/Demo_Image.png)
+📷 Demo:📷 ![Day 19 Demo](Day19_PID-Servo-Tuner/Demo_Image.png)
 
 
 
@@ -306,6 +306,13 @@ In this project, I built a system where an **Arduino Nano controls a servo using
 
 ---
 
+### ✅ Day 20 – 555-Based Traffic Light System
+A traffic light simulation using **three 555 Timer ICs** in monostable mode.  
+Red → Green → Yellow sequence with ~2s delay each, fully electronics-based (no microcontroller).  
+📷 Demo:📷 ![Day 20 Demo](Day20_555_Traffic_Light_System/Images/Demo_Image.png)
+[🔗 View Project](./Day20_555_Traffic_Light_System)
+
+---
 
 
 ## 📌 Follow me on Instagram  
