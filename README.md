@@ -314,6 +314,17 @@ Red → Green → Yellow sequence with ~2s delay each, fully electronics-based (
 
 ---
 
+### ✅ Day 21 – Transmitter & Receiver with Virtual Joystick (C++ & Python)
+A wireless communication system using **NRF24L01** modules where the **transmitter sends control data**,  
+the **receiver forwards it to the PC**, and a **Python script converts the Serial data into Virtual Joystick movements**.
+
+![Demo](./Day21_Transmitter_Receiver_Virtual_Joystick/Demo_Image.jpg)
+
+[🔗 View Project](./Day21_Transmitter_Receiver_Virtual_Joystick)
+
+---
+
+
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
