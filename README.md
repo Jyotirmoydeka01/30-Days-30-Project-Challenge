@@ -318,7 +318,7 @@ Red → Green → Yellow sequence with ~2s delay each, fully electronics-based (
 A wireless communication system using **NRF24L01** modules where the **transmitter sends control data**,  
 the **receiver forwards it to the PC**, and a **Python script converts the Serial data into Virtual Joystick movements**.
 
-![Demo](./Day21_Transmitter_Receiver_Virtual_Joystick/Demo_Image.jpg)
+![Demo](./Day21_Transmitter_Receiver_Virtual_Joystick/Demo_Image.png)
 
 [🔗 View Project](./Day21_Transmitter_Receiver_Virtual_Joystick)
 
