@@ -325,6 +325,14 @@ the **receiver forwards it to the PC**, and a **Python script converts the Seria
 ---
 
 
+### ✅ Day 22 – Human-Following Robot Using Ultrasonic Sensors & Arduino
+A simple robotics project where the robot follows a human/object using two ultrasonic sensors and an L298N motor driver. 
+
+![Demo](./Day22_Human_Following_Robot/Images/Demo_Image.png)
+
+[View Project](Day22_Human_Following_Robot)
+
+---
 
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
