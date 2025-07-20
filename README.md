@@ -334,6 +334,17 @@ A simple robotics project where the robot follows a human/object using two ultra
 
 ---
 
+## ✅ Day 23 – ESP32 Altitude Visualizer (Web-Based in cm)
+A real-time altitude visualizer hosted on an ESP32 web server. It uses a BMP280 sensor to measure relative altitude (in cm) and displays it as a moving block on a vertical scale.
+
+![Demo](./Day23_ESP32_Altitude_Visualizer/Images/Demo_Image.png)
+
+[View Project](Day23_ESP32_Altitude_Visualizer)
+
+
+
+---
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
