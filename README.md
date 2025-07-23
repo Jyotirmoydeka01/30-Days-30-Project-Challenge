@@ -345,6 +345,16 @@ A real-time altitude visualizer hosted on an ESP32 web server. It uses a BMP280 
 
 ---
 
+
+### ✅ Day 24: ESP8266 Home Automation PCB
+A custom PCB designed for home automation using **ESP8266**, featuring Wi-Fi-based control of home appliances, onboard relay drivers, and compact layout for DIY projects.  
+
+![Demo](./Day24_ESP8266_Home_Automation_PCB/PCB_Files/PCB_Side_View.png)
+[🔗 View Project](Day24_ESP8266_Home_Automation_PCB)
+
+
+---
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
