@@ -355,6 +355,16 @@ A custom PCB designed for home automation using **ESP8266**, featuring Wi-Fi-bas
 
 ---
 
+
+### ✅ Day 25 – Digital Ruler (ESP32 + Ultrasonic + OLED)
+A simple digital measuring tool that uses an ultrasonic sensor to calculate distance and displays it on an OLED screen.  
+
+![Demo](./Day25_Digital_Ruler_ESP32/Demo_Image.png)
+[🔗 View Project](Day25_Digital_Ruler_ESP32)
+
+---
+
+
 ## 📌 Follow me on Instagram  
 👉 [@jyotirmakes](https://www.instagram.com/jyotirmakes?igsh=dXhyYWc5bWsyMWgw)
 
